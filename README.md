@@ -1,7 +1,7 @@
 # Food Calorie Estimations Using Deep Learning And Computer Vision
 
-[![GitHub stars](https://img.shields.io/github/stars/chetan-arande/Food-calorie-estimations-Using-Deep-Learning-And-Computer-Vision)](https://github.com/chetan-arande/Food-calorie-estimations-Using-Deep-Learning-And-Computer-Vision/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/chetan-arande/Food-calorie-estimations-Using-Deep-Learning-And-Computer-Vision)](https://github.com/chetan-arande/Food-calorie-estimations-Using-Deep-Learning-And-Computer-Vision/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/chetan-jarande/Food-calorie-estimations-Using-Deep-Learning-And-Computer-Vision)](https://github.com/chetan-jarande/Food-calorie-estimations-Using-Deep-Learning-And-Computer-Vision/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/chetan-jarande/Food-calorie-estimations-Using-Deep-Learning-And-Computer-Vision)](https://github.com/chetan-jarande/Food-calorie-estimations-Using-Deep-Learning-And-Computer-Vision/network/members)
 
 ## Table of Contents
 - [Food Calorie Estimations Using Deep Learning And Computer Vision](#food-calorie-estimations-using-deep-learning-and-computer-vision)
@@ -57,7 +57,7 @@ This folder contains additional resources including configuration files and extr
 ## Attribution & Academic Use
 If you are using this project for academic purposes—such as incorporating it into a final year project—it is **mandatory** that you provide clear and proper attribution. You must:
 - Acknowledge that the project is originally developed by **Chetan Jarande, Mukta Bhagwat, Vishakha Patil, and Diya Ukirde**.
-- Include a statement that the work is based on the open-source project available on [GitHub](https://github.com/chetan-arande/Food-calorie-estimations-Using-Deep-Learning-And-Computer-Vision) and that you are using it with modifications (if any).
+- Include a statement that the work is based on the open-source project available on [GitHub](https://github.com/chetan-jarande/Food-calorie-estimations-Using-Deep-Learning-And-Computer-Vision) and that you are using it with modifications (if any).
 - **Not claim the project as entirely your own original work.**
 Failure to adhere to these conditions violates both the project’s license and academic integrity standards.
 
